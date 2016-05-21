@@ -5,6 +5,7 @@
 # 用法
 
   DataTableUtil dtu = new DataTableUtil();
+  
   dtu.GenerateDataTableRanking(ref yourDataTable, yourSortByField, yourRankingField);
   
   
