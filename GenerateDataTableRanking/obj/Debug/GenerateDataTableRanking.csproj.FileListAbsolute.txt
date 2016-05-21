@@ -1,0 +1,5 @@
+D:\STUDY\_PROJECT\GenerateDataTableRanking\GenerateDataTableRanking\bin\Debug\GenerateDataTableRanking.dll
+D:\STUDY\_PROJECT\GenerateDataTableRanking\GenerateDataTableRanking\bin\Debug\GenerateDataTableRanking.pdb
+D:\STUDY\_PROJECT\GenerateDataTableRanking\GenerateDataTableRanking\obj\Debug\GenerateDataTableRanking.csprojResolveAssemblyReference.cache
+D:\STUDY\_PROJECT\GenerateDataTableRanking\GenerateDataTableRanking\obj\Debug\GenerateDataTableRanking.dll
+D:\STUDY\_PROJECT\GenerateDataTableRanking\GenerateDataTableRanking\obj\Debug\GenerateDataTableRanking.pdb
