@@ -34,7 +34,7 @@ namespace AfternoonLeaf.Framework.Util
                     }
                     
                 }
-                if (!ExistsIndexcies(rgc, rg))
+                if (!ExistsIndexies(rgc, rg))
                     rgc.Add(rg);
             }
 
@@ -51,7 +51,7 @@ namespace AfternoonLeaf.Framework.Util
             }            
         }
 
-        bool ExistsIndexcies(List<RankingGroup>rgc, RankingGroup rg)
+        bool ExistsIndexies(List<RankingGroup>rgc, RankingGroup rg)
         {
             foreach (RankingGroup trg in rgc)
             {
